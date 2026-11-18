@@ -27,6 +27,7 @@ Proyek ini dikembangkan sebagai tugas kelompok pada mata kuliah **Manajemen Proy
 * **Rachmad Fajar Arisyi** ([@fajararisyi](https://github.com/fajararisyi))
 * **Nefa Mardiana** ([@nefamardiana70-crypto](https://github.com/nefamardiana70-crypto))
 * **Sissylia Amanda Putri** ([@SissyliaAmandaPutri](https://github.com/SissyliaAmandaPutri))
+* **Habil Prasetyo**
 
 ## Cara Menjalankan Proyek Secara Lokal
 
